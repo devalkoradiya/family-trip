@@ -1,0 +1,137 @@
+{
+  "quiet-north": [
+    {
+      "file": "assets/goa-photos/quiet-north-1.jpg",
+      "title": "A view of the Morjim beach from the beachfront cafe.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:A_view_of_the_Morjim_beach_from_the_beachfront_cafe.jpg"
+    },
+    {
+      "file": "assets/goa-photos/quiet-north-2.jpg",
+      "title": "Arabian Sea and Morjim Beach as seen from Vagator Fort, Goa, India.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Arabian_Sea_and_Morjim_Beach_as_seen_from_Vagator_Fort,_Goa,_India.jpg"
+    },
+    {
+      "file": "assets/goa-photos/quiet-north-3.jpg",
+      "title": "Brown-headed Gulls and Lesser Crested Terns, Morjim Beach, Goa (50965104021).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Brown-headed_Gulls_and_Lesser_Crested_Terns,_Morjim_Beach,_Goa_(50965104021).jpg"
+    },
+    {
+      "file": "assets/goa-photos/quiet-north-4.jpg",
+      "title": "Common or White-cheeked Tern (15271062721).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Common_or_White-cheeked_Tern_(15271062721).jpg"
+    },
+    {
+      "file": "assets/goa-photos/quiet-north-5.jpg",
+      "title": "DALLAS BEACH RESORTS MORJIM GOA.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:DALLAS_BEACH_RESORTS_MORJIM_GOA.jpg"
+    }
+  ],
+  "fort-goa": [
+    {
+      "file": "assets/goa-photos/fort-goa-1.jpg",
+      "title": "Aguada Fort Top View, North Goa.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Aguada_Fort_Top_View,_North_Goa.jpg"
+    },
+    {
+      "file": "assets/goa-photos/fort-goa-2.jpg",
+      "title": "Aguada Goa Fort.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Aguada_Goa_Fort.jpg"
+    },
+    {
+      "file": "assets/goa-photos/fort-goa-3.jpg",
+      "title": "Aguada fort Goa vrvbgoa2k24 (1).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Aguada_fort_Goa_vrvbgoa2k24_(1).jpg"
+    },
+    {
+      "file": "assets/goa-photos/fort-goa-4.jpg",
+      "title": "Aguada fort Goa vrvbgoa2k24 (10).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Aguada_fort_Goa_vrvbgoa2k24_(10).jpg"
+    },
+    {
+      "file": "assets/goa-photos/fort-goa-5.jpg",
+      "title": "Aguada fort Goa vrvbgoa2k24 (11).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Aguada_fort_Goa_vrvbgoa2k24_(11).jpg"
+    }
+  ],
+  "panjim": [
+    {
+      "file": "assets/goa-photos/panjim-1.jpg",
+      "title": "E-212, Panjim Inn, Fontainhas - 19th-20th century (4276277268).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:E-212,_Panjim_Inn,_Fontainhas_-_19th-20th_century_(4276277268).jpg"
+    },
+    {
+      "file": "assets/goa-photos/panjim-2.jpg",
+      "title": "Latin Quarter of Panjim in Goa, India.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Latin_Quarter_of_Panjim_in_Goa,_India.jpg"
+    },
+    {
+      "file": "assets/goa-photos/panjim-3.jpg",
+      "title": "Latin Quarter of Panjim in Goa, India 003.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Latin_Quarter_of_Panjim_in_Goa,_India_003.jpg"
+    },
+    {
+      "file": "assets/goa-photos/panjim-4.jpg",
+      "title": "Latin Quarter of Panjim in Goa, India 004.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Latin_Quarter_of_Panjim_in_Goa,_India_004.jpg"
+    },
+    {
+      "file": "assets/goa-photos/panjim-5.jpg",
+      "title": "Latin Quarter of Panjim in Goa, India 005.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Latin_Quarter_of_Panjim_in_Goa,_India_005.jpg"
+    }
+  ],
+  "old-goa": [
+    {
+      "file": "assets/goa-photos/old-goa-1.jpg",
+      "title": "Basilica of Bom Jesus, Goa - September 2024.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Basilica_of_Bom_Jesus,_Goa_-_September_2024.jpg"
+    },
+    {
+      "file": "assets/goa-photos/old-goa-2.jpg",
+      "title": "Basilica of Bom Jesus, Goa 2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Basilica_of_Bom_Jesus,_Goa_2.jpg"
+    },
+    {
+      "file": "assets/goa-photos/old-goa-3.jpg",
+      "title": "Basilica of Bom Jesus, Old Goa (ca. 1870).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Basilica_of_Bom_Jesus,_Old_Goa_(ca._1870).jpg"
+    },
+    {
+      "file": "assets/goa-photos/old-goa-4.jpg",
+      "title": "Basilica of Bom Jesus (Goa).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Basilica_of_Bom_Jesus_(Goa).jpg"
+    },
+    {
+      "file": "assets/goa-photos/old-goa-5.jpg",
+      "title": "Basilica of Bom Jesus (Goa) Front Gate.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Basilica_of_Bom_Jesus_(Goa)_Front_Gate.jpg"
+    }
+  ],
+  "south-goa": [
+    {
+      "file": "assets/goa-photos/south-goa-1.jpg",
+      "title": "At Palolem Beach - panoramio.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:At_Palolem_Beach_-_panoramio.jpg"
+    },
+    {
+      "file": "assets/goa-photos/south-goa-2.jpg",
+      "title": "At Palolem Beach - panoramio (1).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:At_Palolem_Beach_-_panoramio_(1).jpg"
+    },
+    {
+      "file": "assets/goa-photos/south-goa-3.jpg",
+      "title": "Beach shack at sunset, Palolem, Goa.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Beach_shack_at_sunset,_Palolem,_Goa.jpg"
+    },
+    {
+      "file": "assets/goa-photos/south-goa-4.jpg",
+      "title": "Dr Pundlik Gaitonde Rd, Palolem, Canacona, Goa 403702, India - panoramio.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dr_Pundlik_Gaitonde_Rd,_Palolem,_Canacona,_Goa_403702,_India_-_panoramio.jpg"
+    },
+    {
+      "file": "assets/goa-photos/south-goa-5.jpg",
+      "title": "Goa.in Palolem Beach - panoramio.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Goa.in_Palolem_Beach_-_panoramio.jpg"
+    }
+  ]
+}
